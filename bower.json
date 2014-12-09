@@ -1,6 +1,6 @@
 {
   "name": "jquery-debounce",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "authors": [
     "Filatov Dmitry <dfilatov@inbox.ru>"
   ],
@@ -20,6 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.8"
+    "jquery": "*"
   }
 }
